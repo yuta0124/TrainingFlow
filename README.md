@@ -1,1 +1,3 @@
 # TrainingFlow
+
+各プロジェクトにREADMEあり。
